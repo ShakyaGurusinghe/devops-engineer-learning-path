@@ -36,7 +36,7 @@ This **6-month free program** is designed to help **interns, fresh graduates, ca
 
 | Month | Week(s) | Topics | Tools / Platforms |
 |-------|---------|--------|-------------------|
-| Jul | 1–2 | Linux Fundamentals | Ubuntu/CentOS, KodeKloud | Completed |
+| Jul | 1–2 | Linux Fundamentals | Ubuntu/CentOS, KodeKloud | 
 | Jul | 3–4 | Shell Scripting | Bash, Vim/Nano |
 | Aug | 1–2 | Git & GitHub | Git CLI, GitHub |
 | Aug | 3–4 | Git Workflows | GitHub Issues, Projects |
