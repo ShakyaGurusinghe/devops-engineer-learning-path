@@ -34,26 +34,26 @@ This **6-month free program** is designed to help **interns, fresh graduates, ca
 
 ## 📅 Weekly Breakdown
 
-| Month | Week(s) | Topics | Tools / Platforms |
-|-------|---------|--------|-------------------|
-| Jul | 1–2 | Linux Fundamentals | Ubuntu/CentOS, KodeKloud | 
-| Jul | 3–4 | Shell Scripting | Bash, Vim/Nano |
-| Aug | 1–2 | Git & GitHub | Git CLI, GitHub |
-| Aug | 3–4 | Git Workflows | GitHub Issues, Projects |
-| Sep | 1–2 | Docker Basics | Docker CLI, DockerHub |
-| Sep | 3 | Docker Compose | docker-compose.yml |
-| Sep | 4 | Basic CI/CD | GitHub Actions, Jenkins |
-| Oct | 1–2 | Kubernetes Basics | Minikube, kubectl |
-| Oct | 3 | Helm Charts | Helm |
-| Oct | 4 | Cloud Basics | AWS, Azure, GCP |
-| Nov | 1 | Managed Kubernetes | EKS/GKE/AKS |
-| Nov | 2 | Cloud K8s Deployment | kubectl, YAML |
-| Nov | 3 | Ingress + TLS | NGINX, cert-manager |
-| Nov | 4 | Cloud Cost Management | AWS, Azure |
-| Dec | 1 | Monitoring | Prometheus, Grafana |
-| Dec | 2 | Centralized Logging | Loki, Fluent Bit |
-| Dec | 3 | Alerting | Alertmanager, Grafana |
-| Dec | 4 | Capstone Project | Full DevOps Stack |
+| Month | Week(s) | Topics | Tools / Platforms | Status |
+|-------|---------|--------|-------------------|--------|
+| Jul | 1–2 | Linux Fundamentals | Ubuntu/CentOS, KodeKloud | Completed |
+| Jul | 3–4 | Shell Scripting | Bash, Vim/Nano | - |
+| Aug | 1–2 | Git & GitHub | Git CLI, GitHub | - |
+| Aug | 3–4 | Git Workflows | GitHub Issues, Projects | - |
+| Sep | 1–2 | Docker Basics | Docker CLI, DockerHub | - |
+| Sep | 3 | Docker Compose | docker-compose.yml | - |
+| Sep | 4 | Basic CI/CD | GitHub Actions, Jenkins | - |
+| Oct | 1–2 | Kubernetes Basics | Minikube, kubectl | - |
+| Oct | 3 | Helm Charts | Helm | - |
+| Oct | 4 | Cloud Basics | AWS, Azure, GCP | - |
+| Nov | 1 | Managed Kubernetes | EKS/GKE/AKS | - |
+| Nov | 2 | Cloud K8s Deployment | kubectl, YAML | - |
+| Nov | 3 | Ingress + TLS | NGINX, cert-manager | - |
+| Nov | 4 | Cloud Cost Management | AWS, Azure | - |
+| Dec | 1 | Monitoring | Prometheus, Grafana | - |
+| Dec | 2 | Centralized Logging | Loki, Fluent Bit | - |
+| Dec | 3 | Alerting | Alertmanager, Grafana | - |
+| Dec | 4 | Capstone Project | Full DevOps Stack | - |
 
 ---
 
