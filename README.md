@@ -44,7 +44,7 @@ This **6-month free program** is designed to help **interns, fresh graduates, ca
 | Sep | 3 | Docker Compose | docker-compose.yml |   |
 | Sep | 4 | Basic CI/CD | GitHub Actions, Jenkins |   |
 | Oct | 1–2 | Kubernetes Basics | Minikube, kubectl |   |
-| Oct | 3 | Helm Charts | Helm | - |
+| Oct | 3 | Helm Charts | Helm |   |
 | Oct | 4 | Cloud Basics | AWS, Azure, GCP |   |
 | Nov | 1 | Managed Kubernetes | EKS/GKE/AKS |   |
 | Nov | 2 | Cloud K8s Deployment | kubectl, YAML |   |
